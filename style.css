@@ -1,0 +1,34 @@
+body { 
+    background-color: aqua;
+    background-size: blue;
+    text-align: center; 
+   }
+
+.clase-1 {
+color: black;
+ }
+ /*clase*/
+ .clase-2 {
+    font-size: 15px;
+    font-weight: bold;
+ }
+ .clase-p {
+    color: blueviolet;
+ }
+ .clase-a {
+    font-size: 50px;
+    color: black;
+    background-color: rgb(25, 161, 252);
+}
+ /*id*/
+ #lista-general {
+    color: black;
+ }
+ #elemento1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-style: italic;
+}
+#elemento3{
+    height: 300px;
+}
